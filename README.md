@@ -2,7 +2,7 @@
 I have used IMDB dataset for sentiment analysis
 
 
-Colons can be used to align columns.
+Following table shows results after experiments
 
 | Models        |  Accuracy           | F1-score  |
 | ------------- |:-------------:| -----:|
